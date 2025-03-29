@@ -1,2 +1,9 @@
-# data-mining-hands-on-exercise
-Hands on exercise in coding for classification and clustering via scikit-learn, PyTorch, NumPy, pandas, etc.
+# Purpose
+Used for practicing data mining coding with machine learning.
+
+## Categories
+Classfication
+Clustering
+
+## Tools would be used
+scikit-learn, PyTorch, NumPy, pandas
