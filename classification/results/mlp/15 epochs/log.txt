@@ -1,0 +1,15 @@
+Epoch [1/15], Loss: 0.6365, Val Loss: 0.3016, Val Acc: 0.9124
+Epoch [2/15], Loss: 0.2688, Val Loss: 0.2137, Val Acc: 0.9374
+Epoch [3/15], Loss: 0.1940, Val Loss: 0.1907, Val Acc: 0.9429
+Epoch [4/15], Loss: 0.1630, Val Loss: 0.1576, Val Acc: 0.9538
+Epoch [5/15], Loss: 0.1234, Val Loss: 0.1574, Val Acc: 0.9540
+Epoch [6/15], Loss: 0.1108, Val Loss: 0.1449, Val Acc: 0.9536
+Epoch [7/15], Loss: 0.0952, Val Loss: 0.1349, Val Acc: 0.9590
+Epoch [8/15], Loss: 0.0803, Val Loss: 0.1455, Val Acc: 0.9598
+Epoch [9/15], Loss: 0.0696, Val Loss: 0.1338, Val Acc: 0.9610
+Epoch [10/15], Loss: 0.0665, Val Loss: 0.1402, Val Acc: 0.9610
+Epoch [11/15], Loss: 0.0574, Val Loss: 0.1446, Val Acc: 0.9600
+Epoch [12/15], Loss: 0.0578, Val Loss: 0.1358, Val Acc: 0.9614
+Epoch [13/15], Loss: 0.0506, Val Loss: 0.1392, Val Acc: 0.9629
+Epoch [14/15], Loss: 0.0434, Val Loss: 0.1422, Val Acc: 0.9610
+Epoch [15/15], Loss: 0.0398, Val Loss: 0.1560, Val Acc: 0.9610
